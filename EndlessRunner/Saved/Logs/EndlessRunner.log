@@ -1097,3 +1097,296 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.26-17.23.10:640][842]PIE: Server logged in
 [2022.04.26-17.23.10:641][842]PIE: Play in editor total start time 0,084 seconds.
 [2022.04.26-17.23.10:898][844]LogBlueprintUserMessages: [MasterTile_C_0] 1
+[2022.04.26-17.25.49:674][347]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.04.26-17.26.45:463][184]LogSlate: Window 'Project Settings' being destroyed
+[2022.04.26-17.26.45:475][184]LogSlate: Window 'Project Settings' being destroyed
+[2022.04.26-17.26.55:707][376]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.04.26-17.27.27:468][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.26-17.27.27:468][998]LogWorld: BeginTearingDown for /Game/EndlessRunnerContent/Map/UEDPIE_0_ForestMap
+[2022.04.26-17.27.27:468][998]LogWorld: UWorld::CleanupWorld for ForestMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-17.27.27:469][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-17.27.27:475][998]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.26-17.27.27:481][998]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-17.27.27:496][998]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.26-17.27.27:497][998]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.26-17.27.27:498][998]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.26-17.27.27:500][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.26-17.27.27:537][998]LogUObjectHash: Compacting FUObjectHashTables data took   4.90ms
+[2022.04.26-17.27.27:556][999]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2022.04.26-17.29.27:598][367]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2022.04.26-17.29.27:643][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2022.04.26-17.29.29:714][594]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2022.04.26-17.29.29:719][594]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2022.04.26-17.29.29:722][594]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-17.29.29:722][594]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-17.29.30:876][726]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.26-17.29.30:881][726]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.26-17.29.30:881][726]PIE: New page: PIE session: ForestMap (26 kwi 2022, 21:29:30)
+[2022.04.26-17.29.30:881][726]LogPlayLevel: Creating play world package: /Game/EndlessRunnerContent/Map/UEDPIE_0_ForestMap
+[2022.04.26-17.29.30:882][726]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001676s)
+[2022.04.26-17.29.30:884][726]LogAIModule: Creating AISystem for world ForestMap
+[2022.04.26-17.29.30:884][726]LogPlayLevel: PIE: World Init took: (0.001334s)
+[2022.04.26-17.29.30:884][726]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndlessRunnerContent/Map/ForestMap.ForestMap to /Game/EndlessRunnerContent/Map/UEDPIE_0_ForestMap.ForestMap (0.003089s)
+[2022.04.26-17.29.30:902][726]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2022.04.26-17.29.30:904][726]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.04.26-17.29.30:904][726]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.26-17.29.30:904][726]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.26-17.29.30:904][726]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.26-17.29.30:904][726]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.26-17.29.30:904][726]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.26-17.29.30:904][726]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.26-17.29.30:904][726]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.26-17.29.30:904][726]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.26-17.29.30:904][726]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.26-17.29.30:904][726]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.26-17.29.30:904][726]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.26-17.29.30:904][726]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.26-17.29.30:908][726]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.26-17.29.30:908][726]LogAudioMixer: Display: 1: FrontRight
+[2022.04.26-17.29.30:916][726]LogAudioMixer: Display: Using Audio Device VG270U P (NVIDIA High Definition Audio)
+[2022.04.26-17.29.30:916][726]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.26-17.29.30:916][726]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.26-17.29.30:916][726]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.26-17.29.30:916][726]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.26-17.29.30:916][726]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.26-17.29.30:916][726]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.26-17.29.30:917][726]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.26-17.29.30:917][726]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.26-17.29.30:917][726]LogInit: FAudioDevice initialized.
+[2022.04.26-17.29.30:917][726]LogAudio: Display: Audio Device (ID: 3) registered with world 'ForestMap'.
+[2022.04.26-17.29.30:921][726]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.26-17.29.30:922][726]LogWorld: Bringing World /Game/EndlessRunnerContent/Map/UEDPIE_0_ForestMap.ForestMap up for play (max tick rate 0) at 2022.04.26-19.29.30
+[2022.04.26-17.29.30:922][726]LogWorld: Bringing up level for play took: 0.000331
+[2022.04.26-17.29.30:922][726]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2022.04.26-17.29.30:929][726]PIE: Server logged in
+[2022.04.26-17.29.30:929][726]PIE: Play in editor total start time 0,049 seconds.
+[2022.04.26-17.29.31:203][758]LogBlueprintUserMessages: [MasterTile_C_0] 1
+[2022.04.26-17.29.31:710][819]LogBlueprintUserMessages: [MasterTile_C_1] 2
+[2022.04.26-17.29.32:202][878]LogBlueprintUserMessages: [MasterTile_C_2] 3
+[2022.04.26-17.29.32:694][937]LogBlueprintUserMessages: [MasterTile_C_3] 4
+[2022.04.26-17.29.33:186][996]LogBlueprintUserMessages: [MasterTile_C_4] 5
+[2022.04.26-17.29.33:678][ 55]LogBlueprintUserMessages: [MasterTile_C_5] 6
+[2022.04.26-17.29.34:161][113]LogBlueprintUserMessages: [MasterTile_C_6] 7
+[2022.04.26-17.29.34:646][169]LogBlueprintUserMessages: [MasterTile_C_7] 8
+[2022.04.26-17.29.35:121][226]LogBlueprintUserMessages: [MasterTile_C_8] 9
+[2022.04.26-17.29.35:605][284]LogBlueprintUserMessages: [MasterTile_C_9] 10
+[2022.04.26-17.29.36:080][341]LogBlueprintUserMessages: [MasterTile_C_10] 11
+[2022.04.26-17.29.36:560][397]LogBlueprintUserMessages: [MasterTile_C_11] 12
+[2022.04.26-17.29.37:019][452]LogBlueprintUserMessages: [MasterTile_C_12] 13
+[2022.04.26-17.29.37:486][508]LogBlueprintUserMessages: [MasterTile_C_13] 14
+[2022.04.26-17.29.37:952][564]LogBlueprintUserMessages: [MasterTile_C_14] 15
+[2022.04.26-17.29.38:418][620]LogBlueprintUserMessages: [MasterTile_C_15] 16
+[2022.04.26-17.29.38:885][676]LogBlueprintUserMessages: [MasterTile_C_16] 17
+[2022.04.26-17.29.39:344][731]LogBlueprintUserMessages: [MasterTile_C_17] 18
+[2022.04.26-17.29.39:794][785]LogBlueprintUserMessages: [MasterTile_C_18] 19
+[2022.04.26-17.29.40:252][840]LogBlueprintUserMessages: [MasterTile_C_19] 20
+[2022.04.26-17.29.40:702][894]LogBlueprintUserMessages: [MasterTile_C_20] 21
+[2022.04.26-17.29.41:153][948]LogBlueprintUserMessages: [MasterTile_C_21] 22
+[2022.04.26-17.29.41:603][  2]LogBlueprintUserMessages: [MasterTile_C_22] 23
+[2022.04.26-17.29.42:053][ 56]LogBlueprintUserMessages: [MasterTile_C_23] 24
+[2022.04.26-17.29.42:494][109]LogBlueprintUserMessages: [MasterTile_C_24] 25
+[2022.04.26-17.29.42:936][162]LogBlueprintUserMessages: [MasterTile_C_25] 26
+[2022.04.26-17.29.43:377][215]LogBlueprintUserMessages: [MasterTile_C_26] 27
+[2022.04.26-17.29.43:811][267]LogBlueprintUserMessages: [MasterTile_C_27] 28
+[2022.04.26-17.29.44:243][318]LogBlueprintUserMessages: [MasterTile_C_28] 29
+[2022.04.26-17.29.44:677][370]LogBlueprintUserMessages: [MasterTile_C_29] 30
+[2022.04.26-17.29.45:110][422]LogBlueprintUserMessages: [MasterTile_C_30] 31
+[2022.04.26-17.29.45:535][473]LogBlueprintUserMessages: [MasterTile_C_31] 32
+[2022.04.26-17.29.45:960][524]LogBlueprintUserMessages: [MasterTile_C_32] 33
+[2022.04.26-17.29.46:384][575]LogBlueprintUserMessages: [MasterTile_C_33] 34
+[2022.04.26-17.29.46:810][626]LogBlueprintUserMessages: [MasterTile_C_34] 35
+[2022.04.26-17.29.47:229][675]LogBlueprintUserMessages: [MasterTile_C_35] 36
+[2022.04.26-17.29.47:646][725]LogBlueprintUserMessages: [MasterTile_C_36] 37
+[2022.04.26-17.29.48:063][775]LogBlueprintUserMessages: [MasterTile_C_37] 38
+[2022.04.26-17.29.48:480][825]LogBlueprintUserMessages: [MasterTile_C_38] 39
+[2022.04.26-17.29.48:887][874]LogBlueprintUserMessages: [MasterTile_C_39] 40
+[2022.04.26-17.29.49:296][923]LogBlueprintUserMessages: [MasterTile_C_40] 41
+[2022.04.26-17.29.49:704][972]LogBlueprintUserMessages: [MasterTile_C_41] 42
+[2022.04.26-17.29.50:112][ 21]LogBlueprintUserMessages: [MasterTile_C_42] 43
+[2022.04.26-17.29.50:512][ 69]LogBlueprintUserMessages: [MasterTile_C_43] 44
+[2022.04.26-17.29.50:912][117]LogBlueprintUserMessages: [MasterTile_C_44] 45
+[2022.04.26-17.29.51:312][165]LogBlueprintUserMessages: [MasterTile_C_45] 46
+[2022.04.26-17.29.51:713][213]LogBlueprintUserMessages: [MasterTile_C_46] 47
+[2022.04.26-17.29.52:113][261]LogBlueprintUserMessages: [MasterTile_C_47] 48
+[2022.04.26-17.29.52:504][308]LogBlueprintUserMessages: [MasterTile_C_48] 49
+[2022.04.26-17.29.52:896][355]LogBlueprintUserMessages: [MasterTile_C_49] 50
+[2022.04.26-17.29.53:288][402]LogBlueprintUserMessages: [MasterTile_C_50] 51
+[2022.04.26-17.29.53:672][448]LogBlueprintUserMessages: [MasterTile_C_51] 52
+[2022.04.26-17.29.54:057][494]LogBlueprintUserMessages: [MasterTile_C_52] 53
+[2022.04.26-17.29.54:441][540]LogBlueprintUserMessages: [MasterTile_C_53] 54
+[2022.04.26-17.29.54:824][586]LogBlueprintUserMessages: [MasterTile_C_54] 55
+[2022.04.26-17.29.55:200][631]LogBlueprintUserMessages: [MasterTile_C_55] 56
+[2022.04.26-17.29.55:582][677]LogBlueprintUserMessages: [MasterTile_C_56] 57
+[2022.04.26-17.29.55:957][722]LogBlueprintUserMessages: [MasterTile_C_57] 58
+[2022.04.26-17.29.56:332][767]LogBlueprintUserMessages: [MasterTile_C_58] 59
+[2022.04.26-17.29.56:707][812]LogBlueprintUserMessages: [MasterTile_C_59] 60
+[2022.04.26-17.29.57:075][856]LogBlueprintUserMessages: [MasterTile_C_60] 61
+[2022.04.26-17.29.57:441][900]LogBlueprintUserMessages: [MasterTile_C_61] 62
+[2022.04.26-17.29.57:808][944]LogBlueprintUserMessages: [MasterTile_C_62] 63
+[2022.04.26-17.29.58:175][988]LogBlueprintUserMessages: [MasterTile_C_63] 64
+[2022.04.26-17.29.58:541][ 32]LogBlueprintUserMessages: [MasterTile_C_64] 65
+[2022.04.26-17.29.58:899][ 75]LogBlueprintUserMessages: [MasterTile_C_65] 66
+[2022.04.26-17.29.59:258][118]LogBlueprintUserMessages: [MasterTile_C_66] 67
+[2022.04.26-17.29.59:616][161]LogBlueprintUserMessages: [MasterTile_C_67] 68
+[2022.04.26-17.29.59:975][204]LogBlueprintUserMessages: [MasterTile_C_68] 69
+[2022.04.26-17.30.00:333][247]LogBlueprintUserMessages: [MasterTile_C_69] 70
+[2022.04.26-17.30.00:683][289]LogBlueprintUserMessages: [MasterTile_C_70] 71
+[2022.04.26-17.30.01:033][331]LogBlueprintUserMessages: [MasterTile_C_71] 72
+[2022.04.26-17.30.01:384][373]LogBlueprintUserMessages: [MasterTile_C_72] 73
+[2022.04.26-17.30.01:733][415]LogBlueprintUserMessages: [MasterTile_C_73] 74
+[2022.04.26-17.30.02:075][456]LogBlueprintUserMessages: [MasterTile_C_74] 75
+[2022.04.26-17.30.02:416][497]LogBlueprintUserMessages: [MasterTile_C_75] 76
+[2022.04.26-17.30.02:758][538]LogBlueprintUserMessages: [MasterTile_C_76] 77
+[2022.04.26-17.30.03:099][579]LogBlueprintUserMessages: [MasterTile_C_77] 78
+[2022.04.26-17.30.03:442][620]LogBlueprintUserMessages: [MasterTile_C_78] 79
+[2022.04.26-17.30.03:776][659]LogBlueprintUserMessages: [MasterTile_C_79] 80
+[2022.04.26-17.30.04:118][700]LogBlueprintUserMessages: [MasterTile_C_80] 81
+[2022.04.26-17.30.04:452][740]LogBlueprintUserMessages: [MasterTile_C_81] 82
+[2022.04.26-17.30.04:785][780]LogBlueprintUserMessages: [MasterTile_C_82] 83
+[2022.04.26-17.30.05:110][819]LogBlueprintUserMessages: [MasterTile_C_83] 84
+[2022.04.26-17.30.05:443][859]LogBlueprintUserMessages: [MasterTile_C_84] 85
+[2022.04.26-17.30.05:768][898]LogBlueprintUserMessages: [MasterTile_C_85] 86
+[2022.04.26-17.30.06:093][937]LogBlueprintUserMessages: [MasterTile_C_86] 87
+[2022.04.26-17.30.06:418][976]LogBlueprintUserMessages: [MasterTile_C_87] 88
+[2022.04.26-17.30.13:054][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.26-17.30.13:054][769]LogWorld: BeginTearingDown for /Game/EndlessRunnerContent/Map/UEDPIE_0_ForestMap
+[2022.04.26-17.30.13:055][769]LogWorld: UWorld::CleanupWorld for ForestMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-17.30.13:055][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-17.30.13:063][769]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.26-17.30.13:068][769]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-17.30.13:081][769]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.26-17.30.13:084][769]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.26-17.30.13:085][769]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.26-17.30.13:086][769]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.26-17.30.13:092][769]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.04.26-17.30.13:136][771]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2022.04.26-17.30.19:802][543]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/EndlessRunnerContent/Blueprints/MasterTile.MasterTile
+[2022.04.26-17.31.22:373][203]LogSlate: Window 'MasterTile' being destroyed
+[2022.04.26-17.31.22:425][203]LogSlate: Window 'MasterTile' being destroyed
+[2022.04.26-17.31.22:427][203]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-17.31.22:427][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-17.31.23:124][277]LogTemp: Repeating last play command: Selected Viewport
+[2022.04.26-17.31.23:128][277]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.04.26-17.31.23:129][277]PIE: New page: PIE session: ForestMap (26 kwi 2022, 21:31:23)
+[2022.04.26-17.31.23:152][277]LogPlayLevel: Creating play world package: /Game/EndlessRunnerContent/Map/UEDPIE_0_ForestMap
+[2022.04.26-17.31.23:154][277]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001975s)
+[2022.04.26-17.31.23:155][277]LogAIModule: Creating AISystem for world ForestMap
+[2022.04.26-17.31.23:155][277]LogPlayLevel: PIE: World Init took: (0.000995s)
+[2022.04.26-17.31.23:155][277]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EndlessRunnerContent/Map/ForestMap.ForestMap to /Game/EndlessRunnerContent/Map/UEDPIE_0_ForestMap.ForestMap (0.003100s)
+[2022.04.26-17.31.23:172][277]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.04.26-17.31.23:174][277]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.04.26-17.31.23:174][277]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.04.26-17.31.23:174][277]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.04.26-17.31.23:174][277]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.04.26-17.31.23:174][277]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.04.26-17.31.23:175][277]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.04.26-17.31.23:175][277]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.04.26-17.31.23:175][277]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.04.26-17.31.23:175][277]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.04.26-17.31.23:175][277]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.04.26-17.31.23:175][277]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.04.26-17.31.23:175][277]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.04.26-17.31.23:175][277]LogAudioMixer: Display: Initializing audio mixer.
+[2022.04.26-17.31.23:179][277]LogAudioMixer: Display: 0: FrontLeft
+[2022.04.26-17.31.23:179][277]LogAudioMixer: Display: 1: FrontRight
+[2022.04.26-17.31.23:186][277]LogAudioMixer: Display: Using Audio Device VG270U P (NVIDIA High Definition Audio)
+[2022.04.26-17.31.23:186][277]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.04.26-17.31.23:186][277]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.04.26-17.31.23:186][277]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.04.26-17.31.23:187][277]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.04.26-17.31.23:187][277]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.04.26-17.31.23:187][277]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.04.26-17.31.23:188][277]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.04.26-17.31.23:188][277]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.04.26-17.31.23:188][277]LogInit: FAudioDevice initialized.
+[2022.04.26-17.31.23:188][277]LogAudio: Display: Audio Device (ID: 4) registered with world 'ForestMap'.
+[2022.04.26-17.31.23:198][277]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.04.26-17.31.23:199][277]LogWorld: Bringing World /Game/EndlessRunnerContent/Map/UEDPIE_0_ForestMap.ForestMap up for play (max tick rate 0) at 2022.04.26-19.31.23
+[2022.04.26-17.31.23:199][277]LogWorld: Bringing up level for play took: 0.000442
+[2022.04.26-17.31.23:199][277]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2022.04.26-17.31.23:206][277]PIE: Server logged in
+[2022.04.26-17.31.23:207][277]PIE: Play in editor total start time 0,079 seconds.
+[2022.04.26-17.31.23:447][305]LogBlueprintUserMessages: [MasterTile_C_0] 1
+[2022.04.26-17.31.23:947][365]LogBlueprintUserMessages: [MasterTile_C_1] 2
+[2022.04.26-17.31.24:447][425]LogBlueprintUserMessages: [MasterTile_C_2] 3
+[2022.04.26-17.31.24:938][484]LogBlueprintUserMessages: [MasterTile_C_3] 4
+[2022.04.26-17.31.25:431][543]LogBlueprintUserMessages: [MasterTile_C_4] 5
+[2022.04.26-17.31.25:914][601]LogBlueprintUserMessages: [MasterTile_C_5] 6
+[2022.04.26-17.31.26:397][659]LogBlueprintUserMessages: [MasterTile_C_6] 7
+[2022.04.26-17.31.26:880][717]LogBlueprintUserMessages: [MasterTile_C_7] 8
+[2022.04.26-17.31.27:364][775]LogBlueprintUserMessages: [MasterTile_C_8] 9
+[2022.04.26-17.31.27:839][832]LogBlueprintUserMessages: [MasterTile_C_9] 10
+[2022.04.26-17.31.28:314][889]LogBlueprintUserMessages: [MasterTile_C_10] 11
+[2022.04.26-17.31.28:788][946]LogBlueprintUserMessages: [MasterTile_C_11] 12
+[2022.04.26-17.31.29:264][  3]LogBlueprintUserMessages: [MasterTile_C_12] 13
+[2022.04.26-17.31.29:731][ 59]LogBlueprintUserMessages: [MasterTile_C_13] 14
+[2022.04.26-17.31.30:197][115]LogBlueprintUserMessages: [MasterTile_C_14] 15
+[2022.04.26-17.31.30:664][171]LogBlueprintUserMessages: [MasterTile_C_15] 16
+[2022.04.26-17.31.31:122][226]LogBlueprintUserMessages: [MasterTile_C_16] 17
+[2022.04.26-17.31.31:580][281]LogBlueprintUserMessages: [MasterTile_C_17] 18
+[2022.04.26-17.31.32:039][336]LogBlueprintUserMessages: [MasterTile_C_18] 19
+[2022.04.26-17.31.32:497][391]LogBlueprintUserMessages: [MasterTile_C_19] 20
+[2022.04.26-17.31.32:947][445]LogBlueprintUserMessages: [MasterTile_C_20] 21
+[2022.04.26-17.31.33:397][499]LogBlueprintUserMessages: [MasterTile_C_21] 22
+[2022.04.26-17.31.33:848][553]LogBlueprintUserMessages: [MasterTile_C_22] 23
+[2022.04.26-17.31.34:289][606]LogBlueprintUserMessages: [MasterTile_C_23] 24
+[2022.04.26-17.31.34:731][659]LogBlueprintUserMessages: [MasterTile_C_24] 25
+[2022.04.26-17.31.35:172][712]LogBlueprintUserMessages: [MasterTile_C_25] 26
+[2022.04.26-17.31.35:615][765]LogBlueprintUserMessages: [MasterTile_C_26] 27
+[2022.04.26-17.31.36:048][817]LogBlueprintUserMessages: [MasterTile_C_27] 28
+[2022.04.26-17.31.36:489][870]LogBlueprintUserMessages: [MasterTile_C_28] 29
+[2022.04.26-17.31.36:922][922]LogBlueprintUserMessages: [MasterTile_C_29] 30
+[2022.04.26-17.31.37:348][973]LogBlueprintUserMessages: [MasterTile_C_30] 31
+[2022.04.26-17.31.37:781][ 25]LogBlueprintUserMessages: [MasterTile_C_31] 32
+[2022.04.26-17.31.38:207][ 76]LogBlueprintUserMessages: [MasterTile_C_32] 33
+[2022.04.26-17.31.38:632][127]LogBlueprintUserMessages: [MasterTile_C_33] 34
+[2022.04.26-17.31.39:048][177]LogBlueprintUserMessages: [MasterTile_C_34] 35
+[2022.04.26-17.31.39:473][228]LogBlueprintUserMessages: [MasterTile_C_35] 36
+[2022.04.26-17.31.39:889][278]LogBlueprintUserMessages: [MasterTile_C_36] 37
+[2022.04.26-17.31.40:306][328]LogBlueprintUserMessages: [MasterTile_C_37] 38
+[2022.04.26-17.31.40:714][377]LogBlueprintUserMessages: [MasterTile_C_38] 39
+[2022.04.26-17.31.41:131][427]LogBlueprintUserMessages: [MasterTile_C_39] 40
+[2022.04.26-17.31.41:539][476]LogBlueprintUserMessages: [MasterTile_C_40] 41
+[2022.04.26-17.31.41:947][525]LogBlueprintUserMessages: [MasterTile_C_41] 42
+[2022.04.26-17.31.42:357][574]LogBlueprintUserMessages: [MasterTile_C_42] 43
+[2022.04.26-17.31.42:757][622]LogBlueprintUserMessages: [MasterTile_C_43] 44
+[2022.04.26-17.31.43:157][670]LogBlueprintUserMessages: [MasterTile_C_44] 45
+[2022.04.26-17.31.43:556][718]LogBlueprintUserMessages: [MasterTile_C_45] 46
+[2022.04.26-17.31.43:956][766]LogBlueprintUserMessages: [MasterTile_C_46] 47
+[2022.04.26-17.31.44:348][813]LogBlueprintUserMessages: [MasterTile_C_47] 48
+[2022.04.26-17.31.44:740][860]LogBlueprintUserMessages: [MasterTile_C_48] 49
+[2022.04.26-17.31.45:134][906]LogBlueprintUserMessages: [MasterTile_C_49] 50
+[2022.04.26-17.31.45:525][953]LogBlueprintUserMessages: [MasterTile_C_50] 51
+[2022.04.26-17.31.45:908][999]LogBlueprintUserMessages: [MasterTile_C_51] 52
+[2022.04.26-17.31.46:300][ 46]LogBlueprintUserMessages: [MasterTile_C_52] 53
+[2022.04.26-17.31.46:683][ 92]LogBlueprintUserMessages: [MasterTile_C_53] 54
+[2022.04.26-17.31.47:068][138]LogBlueprintUserMessages: [MasterTile_C_54] 55
+[2022.04.26-17.31.47:442][183]LogBlueprintUserMessages: [MasterTile_C_55] 56
+[2022.04.26-17.31.47:826][227]LogBlueprintUserMessages: [MasterTile_C_56] 57
+[2022.04.26-17.31.48:201][272]LogBlueprintUserMessages: [MasterTile_C_57] 58
+[2022.04.26-17.31.48:575][317]LogBlueprintUserMessages: [MasterTile_C_58] 59
+[2022.04.26-17.31.48:942][361]LogBlueprintUserMessages: [MasterTile_C_59] 60
+[2022.04.26-17.31.49:317][406]LogBlueprintUserMessages: [MasterTile_C_60] 61
+[2022.04.26-17.31.49:683][450]LogBlueprintUserMessages: [MasterTile_C_61] 62
+[2022.04.26-17.31.50:050][494]LogBlueprintUserMessages: [MasterTile_C_62] 63
+[2022.04.26-17.31.50:417][538]LogBlueprintUserMessages: [MasterTile_C_63] 64
+[2022.04.26-17.31.50:783][582]LogBlueprintUserMessages: [MasterTile_C_64] 65
+[2022.04.26-17.31.51:141][625]LogBlueprintUserMessages: [MasterTile_C_65] 66
+[2022.04.26-17.32.01:522][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.26-17.32.01:522][867]LogWorld: BeginTearingDown for /Game/EndlessRunnerContent/Map/UEDPIE_0_ForestMap
+[2022.04.26-17.32.01:522][867]LogWorld: UWorld::CleanupWorld for ForestMap, bSessionEnded=true, bCleanupResources=true
+[2022.04.26-17.32.01:523][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-17.32.01:530][867]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.04.26-17.32.01:534][867]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.26-17.32.01:550][867]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.26-17.32.01:550][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.26-17.32.01:551][867]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.04.26-17.32.01:553][867]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.04.26-17.32.01:557][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.04.26-17.32.01:601][869]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2022.04.26-17.32.03:669][105]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.04.26-17.32.04:262][105]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/EndlessRunner/EndlessRunner/Saved/ThirdPersonCharacterEFAD2B3646FA53D93A5381942AA4589D.tmp' to 'C:/Users/wojta/Documents/GitHub/EndlessRunner/EndlessRunner/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2022.04.26-17.32.04:282][105]LogSavePackage: Moving 'C:/Users/wojta/Documents/GitHub/EndlessRunner/EndlessRunner/Saved/GameOverScreenE703B81E436CBF22C723ED82D1718A14.tmp' to 'C:/Users/wojta/Documents/GitHub/EndlessRunner/EndlessRunner/Content/EndlessRunnerContent/UI/EndGame/GameOverScreen.uasset'
+[2022.04.26-17.32.04:295][105]AssetCheck: New page: Asset Save: multiple assets
+[2022.04.26-17.32.04:295][105]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2022.04.26-17.32.04:295][105]LogContentValidation: Display: Validating WidgetBlueprint /Game/EndlessRunnerContent/UI/EndGame/GameOverScreen.GameOverScreen
